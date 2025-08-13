@@ -96,7 +96,7 @@ export const mockData = {
           "id": "site-1755101722741",
           "name": "VPS促销监控",
           "url": "https://vps-monitor.czl.net/",
-          "description": "",
+          "description": "全球低价VPS",
           "icon": " https://vps-monitor.czl.net/logo.svg"
         }
       ]
