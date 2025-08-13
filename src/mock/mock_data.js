@@ -449,7 +449,15 @@ export const mockData = {
       "icon": "⚙️",
       "name": "基础设施",
       "order": 3,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1755101722741",
+          "name": "VPS促销监控",
+          "url": "https://vps-monitor.czl.net/",
+          "description": "",
+          "icon": " https://vps-monitor.czl.net/logo.svg"
+        }
+      ]
     },
     {
       "id": "office",
