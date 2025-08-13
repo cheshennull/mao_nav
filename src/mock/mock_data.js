@@ -325,5 +325,6 @@ export const mockData = {
     }
   ],
   "title": "技术导航页",
-  "_fileSha": "220c9de180e19294a0845d8d14109e46e927a7f9"
+  "_fileSha": "bb3e00ecca64fdbb11c102dc964e8a3a9a6abd3b",
+  "search": "google"
 }
