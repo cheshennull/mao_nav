@@ -113,6 +113,13 @@ export const mockData = {
           "url": "https://vps-monitor.czl.net/",
           "description": "全球低价VPS",
           "icon": " https://vps-monitor.czl.net/logo.svg"
+        },
+        {
+          "id": "site-1755331598410",
+          "name": "Docker状态监控",
+          "url": "https://status.anye.xyz/",
+          "description": "境内 Docker 镜像状态监控",
+          "icon": "https://status.anye.xyz/logo.png"
         }
       ]
     },
