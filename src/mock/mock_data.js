@@ -105,6 +105,13 @@ export const mockData = {
           "url": "https://firmianay.gitbooks.io/ctf-all-in-one/content/doc/1.5_reverse_basic.html",
           "description": "逆向工程基础",
           "icon": ""
+        },
+        {
+          "id": "site-1755591822739",
+          "name": "CS自学指南",
+          "url": "https://csdiy.wiki/",
+          "description": "自学指南",
+          "icon": ""
         }
       ]
     },
