@@ -87,10 +87,17 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1755590434365",
+      "icon": "📚",
+      "name": "优秀课程",
+      "order": 2,
+      "sites": []
+    },
+    {
       "id": "category-1755185458235",
       "icon": "🎨",
       "name": "搞七捻三",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "site-1755185588511",
@@ -105,7 +112,7 @@ export const mockData = {
       "id": "category-1755101511331",
       "icon": "⚙️",
       "name": "基础设施",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "site-1755101722741",
@@ -127,7 +134,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "cloudflare",
@@ -184,7 +191,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "github",
@@ -234,7 +241,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "stackoverflow",
@@ -277,7 +284,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "mdn",
@@ -313,7 +320,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "json-formatter",
