@@ -91,7 +91,22 @@ export const mockData = {
       "icon": "📚",
       "name": "优秀课程",
       "order": 2,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1755590520089",
+          "name": "静态程序分析",
+          "url": "https://tai-e.pascal-lab.net/lectures.html",
+          "description": "Java静态程序分析",
+          "icon": ""
+        },
+        {
+          "id": "site-1755590990901",
+          "name": "逆向工程基础",
+          "url": "https://firmianay.gitbooks.io/ctf-all-in-one/content/doc/1.5_reverse_basic.html",
+          "description": "逆向工程基础",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "category-1755185458235",
